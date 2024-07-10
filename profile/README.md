@@ -1,4 +1,4 @@
-## 
+## VintageStory and Minecraft Modding
 ### VintageStory
 - [Balanced Thirst](mods.vintagestory.at/balancedthirst) – Adds thirst and water management
 - [Bear Trap](mods.vintagestory.at/beartrap) – Adds bear traps
