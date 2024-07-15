@@ -3,6 +3,7 @@
 - [Balanced Thirst](mods.vintagestory.at/balancedthirst) – Adds thirst and water management
 - [Bear Trap](mods.vintagestory.at/beartrap) – Adds bear traps
 - [Seashell Ore](mods.vintagestory.at/seashellore) – Adds chance of finding seashells in rocks
+- [Sapling Growth Tweak](https://mods.vintagestory.at/saplinggrowthtweak) – Edit sapling growth minimum temperature
 
 ### Minecraft
 - [End Aspected](https://modrinth.com/mod/end-aspected) – Teleportation and end related items and blocks
