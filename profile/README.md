@@ -1,8 +1,8 @@
 ## VintageStory and Minecraft Modding
 ### VintageStory
-- [Balanced Thirst](mods.vintagestory.at/balancedthirst) – Adds thirst and water management
-- [Bear Trap](mods.vintagestory.at/beartrap) – Adds bear traps
-- [Seashell Ore](mods.vintagestory.at/seashellore) – Adds chance of finding seashells in rocks
+- [Balanced Thirst](https://mods.vintagestory.at/balancedthirst) – Adds thirst and water management
+- [Bear Trap](https://mods.vintagestory.at/beartrap) – Adds bear traps
+- [Seashell Ore](https://mods.vintagestory.at/seashellore) – Adds chance of finding seashells in rocks
 - [Sapling Growth Tweak](https://mods.vintagestory.at/saplinggrowthtweak) – Edit sapling growth minimum temperature
 
 ### Minecraft
