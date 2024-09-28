@@ -1,4 +1,5 @@
 ## VintageStory and Minecraft Modding
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O414011W)
 ### VintageStory
 - [Balanced Thirst](https://mods.vintagestory.at/balancedthirst) – Adds thirst and water management
 - [Bear Trap](https://mods.vintagestory.at/beartrap) – Adds bear traps
@@ -14,5 +15,3 @@
 ### Minecraft
 - [End Aspected](https://modrinth.com/mod/end-aspected) – Teleportation and end related items and blocks
 - [Cardinal Classes](https://modrinth.com/mod/cardinal-classes) – Class system library
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O414011W)
