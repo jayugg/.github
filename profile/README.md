@@ -1,5 +1,5 @@
 ## VintageStory and Minecraft Modding
-[![ko-fi](kofi.png)](https://ko-fi.com/O5O414011W)
+[<img src="kofi.png" width="200" />](https://ko-fi.com/O5O414011W)
 ### VintageStory
 - [Balanced Thirst](https://mods.vintagestory.at/balancedthirst) – Adds thirst and water management
 - [Bear Trap](https://mods.vintagestory.at/beartrap) – Adds bear traps
