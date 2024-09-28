@@ -14,3 +14,5 @@
 ### Minecraft
 - [End Aspected](https://modrinth.com/mod/end-aspected) – Teleportation and end related items and blocks
 - [Cardinal Classes](https://modrinth.com/mod/cardinal-classes) – Class system library
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O414011W)
