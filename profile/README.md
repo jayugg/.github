@@ -9,6 +9,7 @@
 - [BlockPatch Patcher](https://mods.vintagestory.at/show/mod/14682) – Dynamically patch blockpatches. Supports wildcards and modifications of existing values.
 - [ExtraCode](https://mods.vintagestory.at/show/mod/14710) – Adds extra classes and behaviors for content modders
 #### Tweaks
+- [Distillation Info](https://mods.vintagestory.at/distillationinfo) – Show distillation properties in handbook
 - [Sapling Growth Tweak](https://mods.vintagestory.at/saplinggrowthtweak) – Edit sapling growth minimum temperature
 
 
