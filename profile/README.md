@@ -5,6 +5,7 @@
 - [Bear Trap](https://mods.vintagestory.at/beartrap) – Adds bear traps
 - [Seashell Ore](https://mods.vintagestory.at/seashellore) – Adds chance of finding seashells in rocks
 - [La Verace](https://mods.vintagestory.at/show/mod/14493) – Adds Neapolitan pizza, mozzarella, tomatoes and tomato sauce making
+- [Farmland Drops with Nutrients](https://mods.vintagestory.at/show/mod/15084) - Farmland will always drop and carry over nutrients
 #### Libraries and tools
 - [BlockPatch Patcher](https://mods.vintagestory.at/show/mod/14682) – Dynamically patch blockpatches. Supports wildcards and modifications of existing values.
 - [ExtraCode](https://mods.vintagestory.at/show/mod/14710) – Adds extra classes and behaviors for content modders
