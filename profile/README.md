@@ -8,13 +8,13 @@
 - [Farmland Drops with Nutrients](https://mods.vintagestory.at/show/mod/15084) - Farmland will always drop and carry over nutrients
 - [Smithing Plus](https://mods.vintagestory.at/show/mod/15312#showchangelog) - Can smith with metal bits and other smithing tweaks
 #### Libraries and tools
-- [BlockPatch Patcher](https://mods.vintagestory.at/show/mod/14682) – Dynamically patch blockpatches. Supports wildcards and modifications of existing values.
+- [BlockPatch Patcher](https://mods.vintagestory.at/show/mod/14682) – Dynamically patch blockpatches. Supports wildcards and modifications of existing values
 - [ExtraCode](https://mods.vintagestory.at/show/mod/14710) – Adds extra classes and behaviors for content modders
 #### Tweaks
-- [Distillation Info](https://mods.vintagestory.at/distillationinfo) – Show distillation properties in handbook
+- [Distillation Info](https://mods.vintagestory.at/distillationinfo) – Show distillation properties in handbook. *This has now been added to the base game (>1.20rc5) on my suggestion!*
 - [Sapling Growth Tweak](https://mods.vintagestory.at/saplinggrowthtweak) – Edit sapling growth minimum temperature
 
 
 ### Minecraft
 - [End Aspected](https://modrinth.com/mod/end-aspected) – Teleportation and end related items and blocks
-- [Cardinal Classes](https://modrinth.com/mod/cardinal-classes) – Class system library
+- [Cardinal Classes](https://modrinth.com/mod/cardinal-classes) – RPG-like Class system library
