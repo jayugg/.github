@@ -11,7 +11,7 @@
 - [BlockPatch Patcher](https://mods.vintagestory.at/show/mod/14682) – Dynamically patch blockpatches. Supports wildcards and modifications of existing values
 - [ExtraCode](https://mods.vintagestory.at/show/mod/14710) – Adds extra classes and behaviors for content modders
 #### Tweaks
-- [Distillation Info](https://mods.vintagestory.at/distillationinfo) – Show distillation properties in handbook. *This has now been added to the base game (v>1.20rc5) on my suggestion!*
+- [Distillation Info](https://mods.vintagestory.at/distillationinfo) – Show distillation properties in handbook. *This has now been added to the base game ([v1.20rc6](https://www.vintagestory.at/blog.html/news/v120-rc6-lore-update-the-journey-r392/)) on my suggestion!*
 - [Sapling Growth Tweak](https://mods.vintagestory.at/saplinggrowthtweak) – Edit sapling growth minimum temperature
 
 
