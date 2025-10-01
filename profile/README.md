@@ -2,6 +2,7 @@
 <p style="text-align: left;">Enjoy my work? You can support me on <a href="https://ko-fi.com/jayugg" target="_blank" rel="noopener">Ko-fi</a> or <a href="https://patreon.com/jayugg?utm_medium=vintagestorymoddb&amp;utm_source=join_link&amp;utm_campaign=creatorshare_creator&amp;utm_content=copyLink" target="_blank" rel="noopener">Patreon</a>. Thank you 💙!</p>
 <p style="text-align: left;"><a href="https://ko-fi.com/O5O414011W" target="_blank" rel="noopener"><img style="border: 0px; height: 36px;" src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_dark.png" alt="Support me on ko-fi.com" height="36" border="0" /></a>&nbsp;<a href="https://www.patreon.com/bePatron?u=86769298" target="_blank" rel="noopener"><img style="border: 0px; height: 36px;" src="https://github.com/jayugg/.github/blob/main/profile/patreon-logo.png?raw=true" alt="Become a member on patreon.com" height="36" border="0" /></a></p>
 <hr />
+
 ### VintageStory
 [ModDB profile](https://mods.vintagestory.at/show/user/7cbc63d6616a32301846)
 
